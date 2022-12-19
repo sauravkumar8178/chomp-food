@@ -1,0 +1,19 @@
+{
+  "name": "chomp-food",
+  "version": "1.0.0",
+  "description": "This is the food shoping website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravkumar8178/chomp-food.git"
+  },
+  "author": "Saurav kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravkumar8178/chomp-food/issues"
+  },
+  "homepage": "https://github.com/sauravkumar8178/chomp-food#readme"
+}
